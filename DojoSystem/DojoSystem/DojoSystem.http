@@ -1,0 +1,6 @@
+@DojoSystem_HostAddress = http://localhost:5072
+
+GET {{DojoSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
