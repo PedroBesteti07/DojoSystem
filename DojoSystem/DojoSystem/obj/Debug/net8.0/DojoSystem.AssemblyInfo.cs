@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DojoSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8a6d98f63d23018d070c436ccf4f6a5ae16f824")]
 [assembly: System.Reflection.AssemblyProductAttribute("DojoSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DojoSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

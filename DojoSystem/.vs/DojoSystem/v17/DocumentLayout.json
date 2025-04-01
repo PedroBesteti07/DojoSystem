@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\DojoSystem\\DojoSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{764C7021-3D5E-4C12-8D1B-E72C7A623EAA}|DojoSystem\\DojoSystem.csproj|c:\\users\\aluno\\desktop\\dojosystem\\dojosystem\\dojosystem\\data\\dojocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{764C7021-3D5E-4C12-8D1B-E72C7A623EAA}|DojoSystem\\DojoSystem.csproj|solutionrelative:dojosystem\\data\\dojocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{764C7021-3D5E-4C12-8D1B-E72C7A623EAA}|DojoSystem\\DojoSystem.csproj|c:\\users\\aluno\\desktop\\dojosystem\\dojosystem\\dojosystem\\services\\entities\\academiaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{764C7021-3D5E-4C12-8D1B-E72C7A623EAA}|DojoSystem\\DojoSystem.csproj|solutionrelative:dojosystem\\services\\entities\\academiaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{764C7021-3D5E-4C12-8D1B-E72C7A623EAA}|DojoSystem\\DojoSystem.csproj|c:\\users\\aluno\\desktop\\dojosystem\\dojosystem\\dojosystem\\entities\\academia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{764C7021-3D5E-4C12-8D1B-E72C7A623EAA}|DojoSystem\\DojoSystem.csproj|solutionrelative:dojosystem\\entities\\academia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{764C7021-3D5E-4C12-8D1B-E72C7A623EAA}|DojoSystem\\DojoSystem.csproj|c:\\users\\aluno\\desktop\\dojosystem\\dojosystem\\dojosystem\\controller\\academiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{764C7021-3D5E-4C12-8D1B-E72C7A623EAA}|DojoSystem\\DojoSystem.csproj|solutionrelative:dojosystem\\controller\\academiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764C7021-3D5E-4C12-8D1B-E72C7A623EAA}|DojoSystem\\DojoSystem.csproj|c:\\users\\aluno\\desktop\\dojosystem\\dojosystem\\dojosystem\\objects\\models\\academia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{764C7021-3D5E-4C12-8D1B-E72C7A623EAA}|DojoSystem\\DojoSystem.csproj|solutionrelative:dojosystem\\objects\\models\\academia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764C7021-3D5E-4C12-8D1B-E72C7A623EAA}|DojoSystem\\DojoSystem.csproj|c:\\users\\aluno\\desktop\\dojosystem\\dojosystem\\dojosystem\\services\\interfaces\\iacademia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{764C7021-3D5E-4C12-8D1B-E72C7A623EAA}|DojoSystem\\DojoSystem.csproj|solutionrelative:dojosystem\\services\\interfaces\\iacademia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DojoContext.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\DojoSystem\\DojoSystem\\DojoSystem\\Data\\DojoContext.cs",
-              "RelativeDocumentMoniker": "DojoSystem\\Data\\DojoContext.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Desktop\\DojoSystem\\DojoSystem\\DojoSystem\\Data\\DojoContext.cs",
-              "RelativeToolTip": "DojoSystem\\Data\\DojoContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Title": "AcademiaService.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\DojoSystem\\DojoSystem\\DojoSystem\\Services\\Entities\\AcademiaService.cs",
+              "RelativeDocumentMoniker": "DojoSystem\\Services\\Entities\\AcademiaService.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\DojoSystem\\DojoSystem\\DojoSystem\\Services\\Entities\\AcademiaService.cs",
+              "RelativeToolTip": "DojoSystem\\Services\\Entities\\AcademiaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T20:29:12.387Z",
+              "WhenOpened": "2025-04-01T19:35:43.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAcademia.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\DojoSystem\\DojoSystem\\DojoSystem\\Services\\Interfaces\\IAcademia.cs",
+              "RelativeDocumentMoniker": "DojoSystem\\Services\\Interfaces\\IAcademia.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\DojoSystem\\DojoSystem\\DojoSystem\\Services\\Interfaces\\IAcademia.cs",
+              "RelativeToolTip": "DojoSystem\\Services\\Interfaces\\IAcademia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T19:29:06.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Academia.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\DojoSystem\\DojoSystem\\DojoSystem\\Objects\\Models\\Academia.cs",
+              "RelativeDocumentMoniker": "DojoSystem\\Objects\\Models\\Academia.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\DojoSystem\\DojoSystem\\DojoSystem\\Objects\\Models\\Academia.cs",
+              "RelativeToolTip": "DojoSystem\\Objects\\Models\\Academia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:52:33.607Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Academia.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\DojoSystem\\DojoSystem\\DojoSystem\\Entities\\Academia.cs",
-              "RelativeDocumentMoniker": "DojoSystem\\Entities\\Academia.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Desktop\\DojoSystem\\DojoSystem\\DojoSystem\\Entities\\Academia.cs",
-              "RelativeToolTip": "DojoSystem\\Entities\\Academia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Title": "AcademiaController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\DojoSystem\\DojoSystem\\DojoSystem\\Controller\\AcademiaController.cs",
+              "RelativeDocumentMoniker": "DojoSystem\\Controller\\AcademiaController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\DojoSystem\\DojoSystem\\DojoSystem\\Controller\\AcademiaController.cs",
+              "RelativeToolTip": "DojoSystem\\Controller\\AcademiaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T20:09:11.36Z",
+              "WhenOpened": "2025-04-01T18:47:38.036Z",
               "EditorCaption": ""
             }
           ]

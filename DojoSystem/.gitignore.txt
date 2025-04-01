@@ -1,0 +1,65 @@
+# .gitignore for Dojo System (C# backend + React frontend)
+
+# Ignore build outputs and temporary files
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.log
+
+# Visual Studio related files
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET specific files
+wwwroot/
+node_modules/
+
+# React related files
+build/
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Generated files
+*.class
+*.pyc
+*.pyo
+*.pyd
+*.pid
+
+# Mac specific files
+.DS_Store
+
+# IDE directories
+.idea/
+
+# Backup files
+*.bak
+*.tmp
+
+# Configuration files
+appsettings*.json
+
+# Test results
+TestResults/
+
+# Other
+*.swp
+*.swo
